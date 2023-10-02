@@ -2,7 +2,7 @@ package com.marcosviniciusdev.model;
 
 import jakarta.persistence.*;
 
-@Entity(name = "client")
+@Entity(name = "clients")
 public class ClientModel {
 
     @Id
